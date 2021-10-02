@@ -1,0 +1,27 @@
+.cart{
+    background-color: rgb(44, 29, 29);
+    color: white;
+    margin: 0 5%;
+  padding: 40px 0;
+}
+.cart h3{
+    text-align: center;
+}
+.details {
+    padding: 0 5%;
+  }
+.details h5, h2 p {
+    margin: 0;
+    padding-bottom: 15px;
+  }
+  button {
+    margin-top: 20px;
+    background-color: rgb(233, 96, 62);
+    color: #fff;
+    width: 100%;
+    padding: 0.5rem 0;
+    border: 0;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s;
+  }
